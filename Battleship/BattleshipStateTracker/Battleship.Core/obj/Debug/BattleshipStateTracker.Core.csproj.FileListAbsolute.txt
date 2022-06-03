@@ -1,0 +1,5 @@
+C:\Users\Meliton\Documents\Repos\Battleship\BattleshipStateTracker\Battleship.Core\obj\Debug\BattleshipStateTracker.Core.csproj.CoreCompileInputs.cache
+C:\Users\Meliton\Documents\Repos\Battleship\BattleshipStateTracker\Battleship.Core\bin\Debug\Battleship.Core.dll
+C:\Users\Meliton\Documents\Repos\Battleship\BattleshipStateTracker\Battleship.Core\bin\Debug\Battleship.Core.pdb
+C:\Users\Meliton\Documents\Repos\Battleship\BattleshipStateTracker\Battleship.Core\obj\Debug\Battleship.Core.dll
+C:\Users\Meliton\Documents\Repos\Battleship\BattleshipStateTracker\Battleship.Core\obj\Debug\Battleship.Core.pdb

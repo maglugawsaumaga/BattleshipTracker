@@ -1,0 +1,11 @@
+C:\Users\Meliton\Documents\Repos\Battleship\BattleshipStateTracker\Battleship.Console\obj\Debug\BattleshipStateTracker.App.csprojAssemblyReference.cache
+C:\Users\Meliton\Documents\Repos\Battleship\BattleshipStateTracker\Battleship.Console\obj\Debug\BattleshipStateTracker.App.csproj.CoreCompileInputs.cache
+C:\Users\Meliton\Documents\Repos\Battleship\BattleshipStateTracker\Battleship.Console\bin\Debug\Battleship.Console.exe.config
+C:\Users\Meliton\Documents\Repos\Battleship\BattleshipStateTracker\Battleship.Console\bin\Debug\Battleship.Console.exe
+C:\Users\Meliton\Documents\Repos\Battleship\BattleshipStateTracker\Battleship.Console\bin\Debug\Battleship.Console.pdb
+C:\Users\Meliton\Documents\Repos\Battleship\BattleshipStateTracker\Battleship.Console\bin\Debug\Battleship.Core.dll
+C:\Users\Meliton\Documents\Repos\Battleship\BattleshipStateTracker\Battleship.Console\bin\Debug\Battleship.Core.pdb
+C:\Users\Meliton\Documents\Repos\Battleship\BattleshipStateTracker\Battleship.Console\obj\Debug\BattleshipStateTracker.App.csproj.CopyComplete
+C:\Users\Meliton\Documents\Repos\Battleship\BattleshipStateTracker\Battleship.Console\obj\Debug\Battleship.Console.exe
+C:\Users\Meliton\Documents\Repos\Battleship\BattleshipStateTracker\Battleship.Console\obj\Debug\Battleship.Console.pdb
+C:\Users\Meliton\Documents\Repos\Battleship\BattleshipStateTracker\Battleship.Console\bin\Debug\Properties\AssemblyInfo.cs
